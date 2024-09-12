@@ -1,7 +1,7 @@
 # HPTeste
 
 ## Fase 1:
-- Cópia_de_Cópia_de_[HP]_TESTE_TÉCNICO.pdf
+- [HP]_TESTE_TÉCNICO.pdf
 - https://lookerstudio.google.com/reporting/da7077b0-bc03-4421-9142-94794c0703d9 (link de visualização)
 
 ## Fase 2:
