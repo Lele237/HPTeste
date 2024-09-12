@@ -14,7 +14,7 @@
 - 172436.PNG
 - SQLinsights1.sql
 - Insights.pdf
-- https://lookerstudio.google.com/reporting/4539c291-3b46-4f42-b200-48de194ccd1b(link de visualização)
+- https://lookerstudio.google.com/reporting/4539c291-3b46-4f42-b200-48de194ccd1b (link de visualização)
 
 ## Fase 4:
 - APIFGO.py
