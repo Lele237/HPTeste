@@ -9,7 +9,6 @@
 - 134230.PNG
 
 ## Fase 3:
-- SQLQuery3.sql
 - Insights.pdf
 - https://lookerstudio.google.com/reporting/4539c291-3b46-4f42-b200-48de194ccd1b (link de visualização)
 
